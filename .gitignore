@@ -1,0 +1,6 @@
+composer.phar
+composer.lock
+node_modules/
+vendor/
+_react_admin/
+_react_admin.rar

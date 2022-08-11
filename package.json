@@ -1,0 +1,36 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "description": "## Installation",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "gulp": "^4.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "uikit": "^3.5.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.5",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakasovsky/smarty-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakasovsky/smarty-test/issues"
+  },
+  "homepage": "https://github.com/rakasovsky/smarty-test#readme"
+}
