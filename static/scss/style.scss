@@ -3589,6 +3589,16 @@ footer {
     padding: 2rem 5rem;
   }
 
+  // Clients
+   .clients {
+    display: flex;
+    flex-direction: column;
+    * {
+      
+      padding: 20px;
+
+    }
+  }
 
   //News
   .news_wrapper .last_news_bottom {

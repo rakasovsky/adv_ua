@@ -18,7 +18,7 @@
     <div class="category_container">
         <div class="category_top_container">
             <div>
-                <p class="fs48_r">Эксклюзив</p>
+                <p class="fs48_r">Ексклюзив</p>
             </div>
             <div class="category_top_triangles">
                 <img data-lazy="src/img/footer/Triangle.svg" src="/" alt="decoration">
@@ -29,34 +29,26 @@
             <div class="slogan_wrapper">
                 <div class="category_slogan">
                     <p>
-                        Мы всегда готовы помочь нашим клиентам в решении проблемы, связанной с рекламой. Не смогли найти
-                        на сайте то, что хотели? Хотите эксклюзивный подход к решению подачи рекламы? Мы всегда готовы
-                        Вам помочь! У нас Вы можете заказать любой элемент интерьера или мебели под стиль вашего бренда,
-                        начиная от ручки, заканчивая мебелью.
+                        Ми завжди готові допомогти нашим клієнтам у вирішенні проблеми, пов'язаної з рекламою. Чи не
+                        змогли знайти на сайті те, що хотіли? Бажаєте ексклюзивний підхід до вирішення подачі реклами?
+                        Ми завжди готові допомогти Вам!
                     </p>
                     <p>
-                        Мы можем изготовить под заказ в Харькове
-                        мебель из металла и дерева
-                        часы и предметы интерьера
-                        элементы освещения
-                        нестандартные рекламные конструкции
+                        У нас Ви можете замовити будь-які елементи інтер'єру та освітлення під стиль вашого бренду,
+                        цікаві рекламні конструкції, кольородинамічні дисплеї.
                     </p>
-                    <a href="#slider" class="adv_btn"><span>Примеры наших работ</span></a>
+                    <a href="#slider" class="adv_btn"><span>Наші роботи</span></a>
                 </div>
                 <div class="subcategory_list">
                     <ul>
                         {* <li class="fs20"><a class="m_li"
                                 href="/eksklyuziv/izgotovlenie-mebeli-iz-metalla-i-dereva">Изготовление мебели из
                                 металла и дерева</a></li> *}
-                        <li class="fs20"><a class="m_li" href="/eksklyuziv/chasy-i-predmety-interera">Часы и предметы
-                                интерьера</a></li>
-                        <li class="fs20"><a class="m_li" href="/eksklyuziv/elementy-osveshcheniya">Элементы
-                                освещения</a></li>
+                        <li class="fs20"><a class="m_li" href="/eksklyuziv/chasy-i-predmety-interera">Годинники та предмети інтер'єру</a></li>
+                        <li class="fs20"><a class="m_li" href="/eksklyuziv/elementy-osveshcheniya">Елементи освітлення</a></li>
                         <li class="fs20"><a class="m_li"
-                                href="/eksklyuziv/nestandartnye-reklamnye-konstrukcii">Нестандартные рекламные
-                                конструкции</a></li>
-                        <li class="fs20"><a class="m_li" href="/eksklyuziv/cvetodinamicheskie-displei">Цветодинамические
-                                дисплеи</a></li>
+                                href="/eksklyuziv/nestandartnye-reklamnye-konstrukcii">Нестандартні рекламні конструкції</a></li>
+                        <li class="fs20"><a class="m_li" href="/eksklyuziv/cvetodinamicheskie-displei">Кольородинамічні дисплеї</a></li>
                     </ul>
                 </div>
                 {include file='category-form.tpl'}
@@ -83,7 +75,7 @@
 </section>
 <section class="main_our_works xxx2">
     <div>
-        <p class="why_we_slogan bigger_center">Наши работы</p>
+        <p class="why_we_slogan bigger_center">Наші роботи</p>
     </div>
 </section>
 <!-- SLIDER -->
@@ -165,7 +157,7 @@
 <section class="main_our_works xxx5">
     <div>
         <div class="why_we_slogan bigger_center">
-            <div class="adv_btn"><span><a href="/portfolio">Портфолио</a></span></div>
+            <div class="adv_btn"><span><a href="/portfolio">Портфоліо</a></span></div>
         </div>
     </div>
 </section>
@@ -187,7 +179,7 @@
         </div>
         <div class="category_fix2">
             <div class="xxx7">
-                <p class="bigger_center">Наши услуги</p>
+                <p class="bigger_center">Наші послуги</p>
                 <div class="service_wrapper">
 
                     {include file='category_menu.tpl'}

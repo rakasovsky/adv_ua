@@ -3207,6 +3207,14 @@ footer .footer_bottom .footer_social .social_wrapper {
     padding: 2rem 5rem;
   }
 
+  .clients {
+    display: flex;
+    flex-direction: column;
+  }
+  .clients * {
+    padding: 20px;
+  }
+
   .news_wrapper .last_news_bottom {
     margin-top: 30vh;
   }

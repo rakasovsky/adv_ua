@@ -591,7 +591,7 @@ linkedLink.href = 'https://www.linkedin.com/company/advc-branding';
 faceLink.href = 'https://www.facebook.com/advc.com.ua';
 
 // Адрес
-fStreet.textContent = 'переулок Разъездной, 27'
+fStreet.textContent = 'провулок Роз\'їзний, 27'
 
 // Карта
 googleMap.src = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10264.725756149272!2d36.23118855539478!3d49.97045585414487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a07c5d566615%3A0x8af373bf79739dc4!2z0L_RgNC-0LLRg9C70L7QuiDQoNC-0Lcn0ZfQt9C90LjQuSwgMjcsINCl0LDRgNC60ZbQsiwg0KXQsNGA0LrRltCy0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDYxMDAw!5e0!3m2!1suk!2sua!4v1622799369734!5m2!1suk!2sua';

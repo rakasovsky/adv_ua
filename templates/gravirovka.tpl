@@ -1,17 +1,14 @@
-{assign var="articleTitle" value="ADVANCE | Лазерне гравіювання Харьков "}
-{assign var="desc" value="Лазерне гравіювання в Харькове, лазерная резка фанеры, лазерная резка акрила, лазерная резка кожи, лазерная резка лекал и трафаретов"}
+{assign var="articleTitle" value="Рекламна агенція ADVANCE | лазерне гравіювання в Киэві та Харкові "}
+{assign var="desc" value="Лазерне гравіювання у Києві та Харкові, лазерне різання фанери, лазерне різання акрила, лазерне різання шкіри, лазерне різання лекал и трафаретів"}
 
 {include file='page_header.tpl'}
 
 <div class="hidden">
     <h1>
-        Лазерне гравіювання ціна
+        Рекламная агенція Київ, футболки з логотипом, кофти з принтом
     </h1>
     <h2>
-        Лазерне гравіювання ціна Київ
-    </h2>
-    <h2>
-        Лазерне гравіювання ціна Харків
+        Віробництво реклами в Києві та Харкові, друк на одязі, принт на одяг
     </h2>
 </div>
 
@@ -22,7 +19,7 @@
     <div class="category_container subcategory_fix">
         <div class="category_top_container">
             <div>
-                <p class="fs48_r">Лазерне гравіювання</p>
+                <p class="fs48_r">Гравіювання</p>
             </div>
             <div class="category_top_triangles">
                 <img data-lazy="src/img/footer/Triangle.svg" src="/" alt="decoration">
@@ -35,70 +32,123 @@
                     <p>
                         Лазерне гравіювання – це спосіб нанесення зображення на поверхню за допомогою зміни властивостей
                         покриття або верхнього шару матеріалу лазерним променем без механічного контакту з поверхнею, що
-                        гравірується. Ця особливість дозволяє гравіювати навіть м'які або крихкі вироби.
+                        гравірується. Ця особливість дозволяє гравіювати навіть м'які або крихкі вироби. Крім цього,
+                        завдяки дуже обмеженій зоні температурного впливу, не страждають декоративні властивості
+                        оброблюваної поверхні.
                     </p>
-                    <a href="#slider" class="adv_btn"><span>Примеры наших работ</span></a>
-                    <p>Как правило, на изделиях гравируют:</p>
+                    <a href="#slider" class="adv_btn"><span>Приклади нашіх робіт</span></a>
+                    <p>Як правило, на виробах гравірують:</p>
                     <ul>
                         <li>Логотип</li>
-                        <li>Рекламный слоган</li>
-                        <li>Промышленная маркировка </li>
-                        <li>Дарственная надпись</li>
-                        <li>Графическое изображение (фотографии, картинки и др.)</li>
+                        <li>Рекламний салоган;</li>
+                        <li>Промислове маркування;</li>
+                        <li>Дарний напис;</li>
+                        <li>Графічне зображення (фотографії, картинки та інші).</li>
                     </ul>
-                    <p>Наносить таким образом изображения можно на такие материалы:</p>
-                    <ul>
-                        <li>Металлы, в том числе с окрашенными поверхностями</li>
-                        <li>Стекло</li>
-                        <li>Картон</li>
-                        <li>Пластик</li>
-                        <li>Пенопласт</li>
-                        <li>Акрил</li>
-                        <li>Кожа и кожзаменители</li>
-                        <li>Древесина или фанера.</li>
-                    </ul>
-                    <p>Такой способ гравировки позволяет наносить изображения с высоким уровнем детализации, а
-                        полученное изображение будет стойким к истиранию и долгое время сохранять привлекательность.
+                    <p>Наносити таким чином зображення можна на такі матеріали:
+                        Метали, у тому числі з пофарбованими поверхнями;
                     </p>
-                    <p>Отличительной чертой данного способа является возможность наносить изображение на труднодоступные
-                        участки изделия.</p>
-                    <p>Заказать лазерную гравировку в Харькове можно на такие изделия:</p>
                     <ul>
-                        <li>Ювелирные украшения;</li>
-                        <li>Мобильные телефоны или чехлы;</li>
-                        <li>Ежедневники;</li>
-                        <li>Сувениры (ручки, зажигалки, кошельки, визитницы, ключницы, брелоки, термокружки и многое
-                            другое)</li>
-                        <li>Таблички и прочее.</li>
+                        <li>Метали, у тому числі з пофарбованими поверхнями;</li>
+                        <li>Скло;</li>
+                        <li>Картон;</li>
+                        <li>Пластик;</li>
+                        <li>Пінопласт;</li>
+                        <li>Акрил</li>
+                        <li>Шкіра та шкірозамінники;</li>
+                        <li>Деревина чи фанера.</li>
                     </ul>
-                    <p>Лазерная гравировка позволяет придать индивидуальность сувениру и сделать из обыденной вещи
-                        уникальную.</p>
-                    <p>Наша компания занимается промышленной и художественной лазерной гравировкой уже долгое время,
-                        наши дизайнеры разрабатывают максимально качественный дизайн под нанесение методом гравировки, а
-                        операторы станка давно изучили особенности каждого материала. Мы знаем как сделать гравировку
-                        качественно, быстро и красиво.</p>
+                    <p>Такий спосіб гравіювання дозволяє наносити зображення з високим рівнем деталізації, а отримане
+                        зображення буде стійким до стирання та довго зберігати привабливість.
+                    </p>
+                    <p>Відмінною рисою цього способу є можливість наносити зображення на важкодоступні ділянки виробу.
+                    </p>
+                    <p>Замовити лазерне гравіювання в Харкові можна на такі вироби:</p>
+                    <ul>
+                        <li>Ювелірні прикраси;</li>
+                        <li>Мобільні телефони та чохли;</li>
+                        <li>Щоденники;</li>
+                        <li>Сувеніри (ручки, запальнички, гаманці, візитниці, ключниці, брелоки, термокухлі та багато
+                            іншого);</li>
+                        <li>Таблички та інше.</li>
+                    </ul>
+                    <p>Лазерне гравіювання дозволяє надати індивідуальність сувеніру і зробити зі звичайної речі
+                        унікальну.</p>
+                    <p>Наша компанія займається промисловим та художнім лазерним гравіюванням вже довгий час, наші
+                        дизайнери розробляють максимально якісний дизайн під нанесення методом гравіювання, а оператори
+                        верстата давно вивчили особливості кожного матеріалу. Ми знаємо як зробити гравіювання якісно,
+                        швидко та красиво.</p>
                 </div>
                 <div class="subcategory_list">
                     <ul>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-dereva">Лазерная
-                                гравировка на дереве</a></li>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-fanery">Лазерная
-                                гравировка на фанере</a></li>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-kozi">Лазерная
-                                гравировка на коже</a></li>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-plastika">Лазерная
-                                гравировка на пластике</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-dereva">Лазерне гравіювання на дереві</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-fanery">Лазерне гравіювання на фанері</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-kozi">Лазерне гравіювання на шкірі</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-plastika">Лазерне гравіювання на пластику</a></li>
                     </ul>
                     <ul>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-akrila">Лазерная
-                                гравировка на акриле</a></li>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-metalla">Лазерная
-                                гравировка на металле</a></li>
-                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-alluminija">Лазерная
-                                гравировка на алюминии</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-akrila">Лазерне гравіювання на акрилі</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-metalla">Лазерне гравіювання на металі</a></li>
+                        <li class="fs20"><a class="m_li" href="/gravirovka/lazernaja-gravirovka-alluminija">Лазерне гравіювання на алюмінії</a></li>
                     </ul>
                 </div>
-                {include file='category-form.tpl'}
+                <div class="form_wrapper">
+                    <div class="form_container">
+                        <h3>Замовити прорахунок</h3>
+                        <p>Заповніть форму, та наші спеціалісти допоможуть вам<br> прорахувати ваше замовлення</p>
+                        <form action="/mail" method="post" id="ajax_form">
+                            <div class="category_form-section">
+                                <div>
+                                    <label for="f_name">Ваше ім'я</label>
+                                    <input type="text" name="name" id="f_name">
+                                </div>
+                                <div>
+                                    <label for="f_phone">Телефон</label>
+                                    <input type="phone" id="f_phone" name="phone">
+                                </div>
+                            </div>
+
+                            <div class="category_form-section">
+                                <div>
+                                    <label for="f_email">Електронна пошта</label>
+                                    <input type="email" id="f_email" name="email">
+                                </div>
+                                <div>
+                                    <label for="f_theme">Выберить категорію</label>
+                                    <select name="option" id="f_theme">
+                                        <option value="Лазерне гравіювання на дереві"> Лазерне гравіювання на дереві</option>
+                                        <option value="Лазерне гравіювання на фанері" selected>Лазерне гравіювання на фанері
+                                        </option>
+                                        <option value="Лазерне гравіювання на шкірі">Лазерне гравіювання на шкірі</option>
+                                        <option value="Лазерне гравіювання на пластиці">Лазерне гравіювання на пластиці
+                                        </option>
+                                        <option value="Лазерне гравіювання на акрилі">Лазерне гравіювання на акрилі
+                                        </option>
+                                        <option value="Лазерне гравіювання на металі">Лазерне гравіювання на металі
+                                        </option>
+                                        <option value="Лазерне гравіювання на алюмінії">Лазерне гравіювання на алюмінії
+                                        </option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="category_form-section">
+                                <div class="form_message-field">
+                                    <label for="f_message">Повідомлення</label>
+                                    <textarea id="f_message" rows="5" cols="33" name="message"
+                                        placeholder="Любая дополнительная информация"></textarea>
+                                </div>
+                            </div>
+
+
+                            <button type="submit" name="send" class="btn-2"><span>Прорахувати</span></button>
+                            <div id="result_form"></div>
+                        </form>
+
+                    </div>
+                    <div class="f_border">
+                    </div>
+                </div>
             </div>
         </div>
         <div class="service_triangles">
@@ -122,7 +172,7 @@
 </section>
 <section class="main_our_works xxx2">
     <div>
-        <p class="why_we_slogan bigger_center">Наши работы</p>
+        <p class="why_we_slogan bigger_center">Наші роботи</p>
     </div>
 </section>
 <!-- SLIDER -->
@@ -175,7 +225,7 @@
 <section class="main_our_works xxx5">
     <div>
         <div class="why_we_slogan bigger_center">
-            <div class="adv_btn"><span><a href="/portfolio">Портфолио</a></span></div>
+            <div class="adv_btn"><span><a href="/portfolio">Портфоліо</a></span></div>
         </div>
     </div>
 </section>
@@ -197,7 +247,7 @@
         </div>
         <div class="category_fix2">
             <div class="xxx7">
-                <p class="bigger_center">Наши услуги</p>
+                <p class="bigger_center">Наші послуги</p>
                 <div class="service_wrapper">
 
                     {include file='category_menu.tpl'}

@@ -1,5 +1,5 @@
-{assign var="articleTitle" value="Рекламное агенство ADVANCE | Лучшие работы | Производство рекламы в Харькове"}
-{assign var="desc" value="Портфолио компании ADVANCE | Брендированная одежда | Сувенирная продукция | Широкоформатная печать | Полиграфия | POS материалы . Звоните ☎ 096 761 761 6"}
+{assign var="articleTitle" value="Рекламна агенція ADVANCE | Кращі роботи | Реклама в Києві, Харкові, Друк на одязі, футболки з принтом"}
+{assign var="desc" value="Портфоліо компанії ADVANCE | Одяг з логотипом | Футболки з принтом | Широкофрматний друк | Поліграфія | POS матеріали . Дзвоніть ☎ 050 662 55 11"}
 
 {include file='page_header.tpl'}
 
@@ -9,7 +9,7 @@
     <div class="category_container blog portfolio">
         <div class="blog_top_container">
             <div>
-                <p class="fs48_r white">Наши работы</p>
+                <p class="fs48_r white">Наші роботи</p>
             </div>
             <div class="triangles">
                 <img data-lazy="src/img/footer/Triangle.svg" src="/" alt="decoration">
@@ -19,34 +19,34 @@
         <div class="xxx1">
             <div class="tab_control_container">
                 <ul>
-                    <li class="btn" onclick="openCategory(event,'clothes')">Брендированная одежда</li>
-                    <li class="btn" onclick="openCategory(event,'print')">Широкоформатная печать</li>
-                    <li class="btn" onclick="openCategory(event,'gift')">Сувенирная продукция</li>
-                    <li class="btn" onclick="openCategory(event,'k_style')">Корпоративный стиль</li>
-                    <li class="btn" onclick="openCategory(event,'outdoor')">Наружная реклама</li>
-                    <li class="btn" onclick="openCategory(event,'inter')">Оформление интерьеров</li>
-                    <li class="btn" onclick="openCategory(event,'poli')">Полиграфия</li>
-                    <li class="btn" onclick="openCategory(event,'light')">Освещение</li>
-                    <li class="btn" onclick="openCategory(event,'stend')">Выставочные стенды</li>
-                    <li class="btn" onclick="openCategory(event,'ex')">Эксклюзив</li>
-                    <li class="btn" onclick="openCategory(event,'dop')">Дополнительные Услуги</li>
-                    <li class="btn" onclick="openCategory(event,'pos')">POS Материалы</li>
+                    <li class="btn" onclick="openCategory(event,'clothes')">Брендований одяг</li>
+                    <li class="btn" onclick="openCategory(event,'print')">Широкоформатний друк</li>
+                    <li class="btn" onclick="openCategory(event,'gift')">Сувенірна продукція</li>
+                    <li class="btn" onclick="openCategory(event,'k_style')">Корпоративний стиль</li>
+                    <li class="btn" onclick="openCategory(event,'outdoor')">Зовнішня реклама</li>
+                    <li class="btn" onclick="openCategory(event,'inter')">Оформлення інтер'єрів</li>
+                    <li class="btn" onclick="openCategory(event,'poli')">Поліграфія</li>
+                    <li class="btn" onclick="openCategory(event,'light')">Освітлення</li>
+                    <li class="btn" onclick="openCategory(event,'stend')">Виставкові стенди</li>
+                    <li class="btn" onclick="openCategory(event,'ex')">Ексклюзив</li>
+                    <li class="btn" onclick="openCategory(event,'dop')">Додаткові послуги/li>
+                    <li class="btn" onclick="openCategory(event,'pos')">POS Матеріали</li>
                 </ul>
             </div>
             <div class="select mob_portfolio">
                 <ul>
-                    <li values="1" class="option btn" onclick="openCategory(event,'clothes')">Брендированная одежда</li>
-                    <li values="2" class="option btn" onclick="openCategory(event,'print')">Широкоформатная печать</li>
-                    <li values="3" class="option btn" onclick="openCategory(event,'gift')">Сувенирная продукция</li>
-                    <li values="4" class="option btn" onclick="openCategory(event,'k_style')">Корпоративный стиль</li>
-                    <li values="5" class="option btn" onclick="openCategory(event,'outdoor')">Наружная реклама</li>
-                    <li values="6" class="option btn" onclick="openCategory(event,'inter')">Оформление интерьеров</li>
-                    <li values="7" class="option btn" onclick="openCategory(event,'poli')">Полиграфия</li>
-                    <li values="8" class="option btn" onclick="openCategory(event,'light')">Освещение</li>
-                    <li values="9" class="option btn" onclick="openCategory(event,'stend')">Выставочные стенды</li>
-                    <li values="10" class="option btn" onclick="openCategory(event,'ex')">Эксклюзив</li>
-                    <li values="11" class="option btn" onclick="openCategory(event,'dop')">Дополнительные Услуги</li>
-                    <li values="12" class="option btn" onclick="openCategory(event,'pos')">POS Материалы</li>
+                    <li values="1" class="option btn" onclick="openCategory(event,'clothes')">Брендований одяг</li>
+                    <li values="2" class="option btn" onclick="openCategory(event,'print')">Широкоформатний друк</li>
+                    <li values="3" class="option btn" onclick="openCategory(event,'gift')">Сувенірна продукція</li>
+                    <li values="4" class="option btn" onclick="openCategory(event,'k_style')">Корпоративний стиль</li>
+                    <li values="5" class="option btn" onclick="openCategory(event,'outdoor')">Зовнішня реклама</li>
+                    <li values="6" class="option btn" onclick="openCategory(event,'inter')">Оформлення інтер'єрів</li>
+                    <li values="7" class="option btn" onclick="openCategory(event,'poli')">Поліграфія</li>
+                    <li values="8" class="option btn" onclick="openCategory(event,'light')">Освітлення</li>
+                    <li values="9" class="option btn" onclick="openCategory(event,'stend')">Виставкові стенди</li>
+                    <li values="10" class="option btn" onclick="openCategory(event,'ex')">Ексклюзив</li>
+                    <li values="11" class="option btn" onclick="openCategory(event,'dop')">Додаткові послуги</li>
+                    <li values="12" class="option btn" onclick="openCategory(event,'pos')">POS Матеріали</li>
                 </ul>
             </div>
         </div>
@@ -4114,7 +4114,7 @@
 </section>
 <section class="portfolio_bottom">
     <div class="p_top">
-        <span class="fs48_r">Нам можно доверять</span>
+        <span class="fs48_r">Нам можна довіряти</span>
         <div class="triangles">
             <img data-lazy="src/img/footer/Triangle.svg" src="/" alt="decoration">
             <img data-lazy="src/img/footer/Triangle.svg" src="/" alt="decoration">
@@ -4123,9 +4123,9 @@
     <div class="p_bottom">
         <div class="left  xxx1">
             <p>
-                За многие годы работы компания ADVANCE заслужила доверие многих постоянных клиентов. С нами сотрудничают
-                наиболее именитые фирмы Харькова и Украины. Мы ценим преданность наших взыскательных заказчиков из
-                любого уголка страны и предоставляем услуги на самом высоком уровне.
+            За багато років роботи, компанія ADVANCE заслужила на довіру багатьох постійних клієнтів. З нами співпрацюють
+            найбільш імениті фірми Харкова та України. Ми цінуємо відданість наших вимогливих замовників з
+            будь-якого куточка країни та надаємо послуги на найвищому рівні.
             </p>
         </div>
         <div class="right">
